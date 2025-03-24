@@ -5,6 +5,8 @@ import uvicorn
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
 
 #initialisation de l'API
 
@@ -24,4 +26,3 @@ if __name__ == "__main__":
     port = int(os.getenv("PORT", 8000))    
     uvicorn.run(app, host=host, port=port)
 
-    
