@@ -19,3 +19,6 @@ uvicorn
 
 # Autres outils utiles
 python-dotenv
+
+# env
+python-dotenv
