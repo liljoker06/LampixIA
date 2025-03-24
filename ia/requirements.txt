@@ -1,0 +1,21 @@
+# PyTorch avec DirectML (GPU AMD) ou CPU-only
+torch-directml  # Active le support DirectML (GPU AMD)
+torch 
+torchvision
+torchaudio
+
+# Manipulation des données
+numpy
+pandas
+scikit-learn
+
+# Visualisation des données
+matplotlib
+seaborn
+
+# API avec FastAPI
+fastapi
+uvicorn
+
+# Autres outils utiles
+python-dotenv

@@ -1,0 +1,19 @@
+# Ignorer l'environnement virtuel
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les logs et fichiers temporaires
+*.log
+*.out
+*.tmp
+
+# Ignorer les modèles entraînés (on les garde en local)
+*.pt
+*.h5
+
+# Ignorer les dépendances installées
+*.whl
