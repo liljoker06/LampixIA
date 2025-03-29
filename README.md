@@ -26,3 +26,8 @@ Restez connectés et n’hésitez pas à suivre le projet pour ne rien rater �
 
 👨‍💻 *Développé avec passion et liberté.*
 
+---
+
+### © Tous droits réservés  
+[**liljoker06**](https://github.com/liljoker06)
+
