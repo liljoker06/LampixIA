@@ -1,33 +1,32 @@
-# 🧠 LAMPIX IA est une  IA Open Source pour les Tâches Quotidiennes
+# 🧠 Lampix IA — Open Source Assistant for Daily Tasks
 
-Bienvenue dans ce projet en cours de développement ! 🚧  
-Je travaille actuellement sur une **IA gratuite et open source** conçue pour vous assister dans vos tâches quotidiennes.
+Welcome to the development of **Lampix IA**! 🚧  
+I'm currently working on a **free and open-source AI** designed to help you with your daily tasks.
 
-### ✅ Objectifs du projet
+### ✅ Project Goals
 
-- 💡 Offrir une IA accessible à tous
-- 🔓 100% Open Source : libre d'utilisation, de modification et de distribution
-- 🔐 Vous gardez le **contrôle total** sur vos données personnelles
-- 🖥️ Facile à installer et à configurer sur **votre propre machine**
+- 💡 Make AI accessible to everyone  
+- 🔓 100% Open Source: free to use, modify, and share  
+- 🔐 Full control over **your personal data**  
+- 🖥️ Easy to install and configure on **your own machine**
 
-> L'idée est de démocratiser l'accès à l'IA tout en respectant la vie privée et en encourageant l'auto-hébergement.
-
----
-
-🎯 Un README plus complet arrivera très bientôt, avec :
-- La structure du projet 🏗️  
-- Les instructions d'installation ⚙️  
-- Des cas d’usage concrets 📚  
-- Et bien plus encore !
-
-Restez connectés et n’hésitez pas à suivre le projet pour ne rien rater 💬
+> The goal is to democratize access to AI while protecting privacy and promoting self-hosting.
 
 ---
 
-👨‍💻 *Développé avec passion et liberté.*
+🎯 A more detailed README is coming soon, including:
+- Project structure 🏗️  
+- Installation instructions ⚙️  
+- Real-world use cases 📚  
+- And much more!
+
+Stay tuned and feel free to follow the project for updates 💬
 
 ---
 
-### © Tous droits réservés  
+👨‍💻 *Built with passion and freedom.*
+
+---
+
+### © All rights reserved  
 [**liljoker06**](https://github.com/liljoker06)
-
